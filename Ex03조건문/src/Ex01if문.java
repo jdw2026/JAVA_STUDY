@@ -18,7 +18,7 @@ public class Ex01if문 {
 		// -> 비교연산자, 논리연산자
 		if(age>=20) {
 			//조건식의 결과가 참(true)일때
-			System.out.println("성인입니다.");
+			System.out.println("성인입니다");
 			
 		}
 		
